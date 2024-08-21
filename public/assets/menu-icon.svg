@@ -1,0 +1,61 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="40" height="40" fill="#F5F5F5"/>
+<g id="MacBook Pro 16&#34; - 16" clip-path="url(#clip0_269_1730)">
+<rect width="1728" height="1117" transform="translate(-72 -28)" fill="white"/>
+<g id="Scrollable content">
+<g id="Hero image" clip-path="url(#clip1_269_1730)">
+<rect width="1728" height="516" transform="translate(-72 -28)" fill="#1A212A"/>
+<rect width="1728" height="516" transform="translate(-72 -28)" fill="url(#paint0_linear_269_1730)" fill-opacity="0.08"/>
+<path id="Blurs" d="M-75.0946 280.852C-295.608 241.32 -205.525 385.962 -219.057 430.985L-14.5132 797.675L389.955 759.593L778.001 485.001C767.904 456.383 652.742 432.561 509.502 438.001C272.502 447.001 200.547 330.267 -75.0946 280.852Z" fill="url(#paint1_linear_269_1730)" fill-opacity="0.08"/>
+<g id="Blurs_2" filter="url(#filter1_f_269_1730)">
+<path d="M-19.7097 74.052C-516.681 18.9359 -493.523 319.294 -496.386 398.308L1519.77 1112.71L1816.76 228.791C1778.39 179.715 1658.27 124.764 1484.73 297.568C1267.82 513.574 601.505 142.947 -19.7097 74.052Z" fill="url(#paint2_linear_269_1730)" fill-opacity="0.2"/>
+</g>
+</g>
+</g>
+<g id="Header-Draft-2.1">
+<rect width="1727.97" height="92" transform="translate(-72 -28)" fill="#1B2028"/>
+<g id="Frame 1616">
+<g id="Frame 1612" filter="url(#filter2_b_269_1730)">
+<g id="Group 1000000962">
+<path id="Line 1" d="M7.40625 11.1094H32.5914" stroke="white" stroke-width="1.85185" stroke-linecap="round"/>
+<path id="Line 2" d="M7.40625 19.998H32.5914" stroke="white" stroke-width="1.85185" stroke-linecap="round"/>
+<path id="Line 3" d="M7.40625 28.8867H32.5914" stroke="white" stroke-width="1.85185" stroke-linecap="round"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter1_f_269_1730" x="-862.612" y="-298.881" width="3045.6" height="1777.82" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="183.113" result="effect1_foregroundBlur_269_1730"/>
+</filter>
+<filter id="filter2_b_269_1730" x="-11.8519" y="-11.8519" width="63.7037" height="63.7037" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImageFix" stdDeviation="5.92593"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_269_1730"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_269_1730" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear_269_1730" x1="727.5" y1="830" x2="864" y2="-2.36982e-05" gradientUnits="userSpaceOnUse">
+<stop stop-color="#EE2A5C"/>
+<stop offset="0.895833"/>
+</linearGradient>
+<linearGradient id="paint1_linear_269_1730" x1="640.203" y1="447.307" x2="-227.027" y2="335.191" gradientUnits="userSpaceOnUse">
+<stop offset="0.0385781" stop-color="#3B2442"/>
+<stop offset="1" stop-color="#C54FC8"/>
+<stop offset="1" stop-color="#821A84" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint2_linear_269_1730" x1="1646.07" y1="208.718" x2="-385.676" y2="346.316" gradientUnits="userSpaceOnUse">
+<stop offset="0.0385781" stop-color="#EE2A5C" stop-opacity="0.89"/>
+<stop offset="1" stop-color="#1A212A"/>
+<stop offset="1" stop-color="#1A212A" stop-opacity="0"/>
+</linearGradient>
+<clipPath id="clip0_269_1730">
+<rect width="1728" height="1117" fill="white" transform="translate(-72 -28)"/>
+</clipPath>
+<clipPath id="clip1_269_1730">
+<rect width="1728" height="516" fill="white" transform="translate(-72 -28)"/>
+</clipPath>
+</defs>
+</svg>
